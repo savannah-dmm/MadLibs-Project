@@ -1,3 +1,4 @@
+#MADLIBS
 def story1():
   print("chose story 1")
   name = input("What is your name? ")
